@@ -28,12 +28,11 @@ __Required Software:__
 * DE10-Nano GHRD (available from the board’s revision C system CD)
 * Qupla source (follow README on page)
 
+<br/>
+
 __Required Hardware:__
 * Cyclone V DE10-Nano SoC
 * Mini USB to USB cable (for UART connection)
 * 5V (2A) DC power supply
 * 2GB+ microSD card 
   * Adapter to interface microSD with Host PC
-  
-  
-<br/>
